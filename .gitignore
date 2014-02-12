@@ -54,3 +54,6 @@ docs/_build/
 # PyCharm
 .idea/
 
+# Template output files
+src/buildoutdemo/settings.py
+
